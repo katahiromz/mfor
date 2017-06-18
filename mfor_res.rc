@@ -1,0 +1,7 @@
+// MoveFileOnReboot (mfor)
+// This file is public domain software (PDS).
+// Copyright (C) 2017 Katayama Hirofumi MZ.
+#ifndef MANIFEST
+    #define MANIFEST 24
+#endif
+1 MANIFEST "mfor.exe.manifest"
